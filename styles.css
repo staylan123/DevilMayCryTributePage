@@ -1,0 +1,68 @@
+body {
+    background: url("Images/Dante_Background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+#main-header {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: "Permanent Marker";
+}
+
+#sub-header-text {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.dmc-history {
+    background-color: rgba(0, 0, 0, 0.65);
+    color: white;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+}
+
+#history-title {
+    text-align: center;
+    font-family: "Permanent Marker";
+}
+
+.dmc1 {
+    background-color: rgba(0, 0, 0, 0.65);
+    color: white;
+    border: red 1px solid;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+}
+
+#dmc-1-title{
+    text-align: center;
+    font-family: "Permanent Marker";
+}
+
+.dmc2 {
+    background-color: rgba(0, 0, 0, 0.65);
+    color: white;
+    border: red 1px solid;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+}
+
+#dmc-2-title{
+    text-align: center;
+    font-family: "Permanent Marker";
+}
+
+.dmc3 {
+    background-color: rgba(0, 0, 0, 0.65);
+    color: white;
+    border: red 1px solid;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+}
+
+#dmc-3-title{
+    text-align: center;
+    font-family: "Permanent Marker";
+}
